@@ -1,7 +1,6 @@
 div {
   width: 30%;
   height: 300px;
-  margin: 20px;
+  display: inline-block;
   background-color: #0e6196;
-
 }
