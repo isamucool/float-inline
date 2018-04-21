@@ -1,6 +1,6 @@
 div {
   width: 30%;
   height: 300px;
-  display: inline-block;
+  float: left;
   background-color: #0e6196;
 }
