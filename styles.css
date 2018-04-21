@@ -1,6 +1,35 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
 div {
   width: 30%;
   height: 300px;
   float: left;
   background-color: #0e6196;
+
+}
+
+div > img {
+  display: block;
+  width: 100%;
+}
+
+
+
+.uno {
+  width: 25%;
+  background-color: #6eda90;
+}
+
+.dos{
+ width: 35%;
+  background-color: blue;
+}
+
+.tres{
+  width: 40%;
+  background-color: red;
 }
